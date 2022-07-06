@@ -1,0 +1,26 @@
+{
+  "id": "28e85a0e-6766-4c48-b709-df1d8abaf6c9",
+  "name": "Disable Edit Price",
+  "publisher": "Microchannel",
+  "version": "20.1.2.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SamplePtyLtd.com/help/",
+  "runtime": "9.0",
+  "resourceExposurePolicy": {"allowDebugging": true}
+}
